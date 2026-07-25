@@ -29,7 +29,6 @@ Rather than treating model outputs as direct evidence of social bias, the projec
 **Study focus:**  
 An empirical cross-linguistic comparison of English and Persian model behaviour.
 
-[Read the thesis PDF](./Thesis_Evaluating%20LLMs_Bias%20in%20Non%20English%20Languages_26Nov.pdf)
 
 ## Research Questions
 
