@@ -1,6 +1,6 @@
-# Cross-Linguistic Analysis of Social Bias in English and Persian Language Models
+# Tokenisers Matter: Evaluating Bias in Multilingual and Persian-Specific Language Models
 
-> **Master’s Thesis** | Stockholm University | Multilingual NLP, Empirical Language Analysis & Responsible AI
+> **Master’s Thesis and TokShop 2026 Paper** | Stockholm University | Multilingual NLP, Tokenisation Analysis & Responsible AI
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-orange.svg)](https://huggingface.co/)
@@ -29,6 +29,10 @@ Rather than treating model outputs as direct evidence of social bias, the projec
 **Study focus:**  
 An empirical cross-linguistic comparison of English and Persian model behaviour.
 
+## Related Publication
+
+**Tokenisers Matter: Evaluating Bias in Multilingual and Persian-Specific Language Models**  
+Accepted for poster presentation at the **Second Tokenization Workshop (TokShop), COLM 2026**, San Francisco, USA. Non-archival.
 
 ## Research Questions
 
